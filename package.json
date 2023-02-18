@@ -1,0 +1,24 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "* utils/webgl-helper.js ：WebGL 辅助库，为开发者提供操作 WebGL 的便捷功能，减少不必要的编码。 * pages : 示例代码 * css : 示例代码中的公共 css。",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songxingguo/webgl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songxingguo/webgl/issues"
+  },
+  "homepage": "https://github.com/songxingguo/webgl#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "parcel-transformer-markdown": "^2.1.1"
+  }
+}
